@@ -15,6 +15,6 @@ def grade_calculator():
             grade = 'D'
         else:
             grade = 'F'
-        print(f"Score: {score}, Grade: {grade}")
+        print(f"Score: {score}, Grade: {grade}") 
 
 grade_calculator()
